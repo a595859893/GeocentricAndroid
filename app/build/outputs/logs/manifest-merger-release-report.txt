@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-gesture-handler] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\1a2d3db84d62f1afb6f27d44e874b13f\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f03a526a91ede36faab1dbbb7ebf54ea\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ab5f3691026cc424fd471e4c180efd84\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\756b195122ba44fe83f2b04fe49c4395\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b751983dc85b0373835775e2c51e4ba9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\31a6bac59c2bfb64b031ef0ad270d1f6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\8914781fd17ca68edb55f6b86bbfdf3b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\38e1a394337257e0af65daa5c0531b8e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6544a293a1c7d35953e90372e696a823\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\19e41ef49a85e48adb99a57adb1850cf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f79bfd05f00e7d468d6d5a6a6e598edd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0ac9f34183a7a14e9dfb97b5d5c861a2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b02de7247d972f6577ed1025c18e93c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a0fd03ffa499b636651e684a53b127c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\162171420c7ac4633cf790681293546e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\4ec7fa15bd47f9b21088462a1b6f53f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ae9eba24a7cf2066b99aeaedb5a0943b\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99fe2cc1cc529e0cc1ca1b5ed9deef5a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9f3386b07802ca451f7309581dc3315e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\22098c9045eb23754a165a05c185b88f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\2b013baf1648d87ff66ee963f8ccc967\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\50212e6c17a1c3eec0a382dba80ef551\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\92742ee9b8b106d1cf6f4c6d49ed1426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2b3b117430854788c97ef5b83356d4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\053e6812d2f51b29404c473910400419\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\510bfbae362d0af0157493c86edfde0e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2606a61e2e19fa52c3f45419a2335d7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0be632f9dff13a7cea92126d87605b67\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\e8b38e589f4be0d078c454ccd6c2879f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\88723e1b080fa9fd48b72900532d83e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a9ce13a37eee7ba83a4b6c9459baf9b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\72dd8d18d638c7e2e8ea4c1cd36424ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c74b786202b8ba0e359a3ed3d0b60bee\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\06e9b9992778f6c287d86e288acca60f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9043ebe0930aa46f9323b772e8a124ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c573ed8b3252ac523429b9772753602c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\7f0469927f8c2c3ee05e2a6f61a08db5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\5ce4b09e0db6ee7e807dd8e0c42a6453\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f9905d5df8f9ec1976dd204ee3899f3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3542d25979c019286e3eb3b53f5a329b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99e942b1defcc24daeee2bcfdd1a3216\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6b2ccd48711446c5ddf59a4f73ddc744\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3452eb643f331e516ef6025cba5eaa02\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\1a2d3db84d62f1afb6f27d44e874b13f\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\1a2d3db84d62f1afb6f27d44e874b13f\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ab5f3691026cc424fd471e4c180efd84\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ab5f3691026cc424fd471e4c180efd84\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0ac9f34183a7a14e9dfb97b5d5c861a2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0ac9f34183a7a14e9dfb97b5d5c861a2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c74b786202b8ba0e359a3ed3d0b60bee\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c74b786202b8ba0e359a3ed3d0b60bee\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:7:9-40
+activity#com.geocentricandroid.MainActivity
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:17:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:24:9-86
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:24:19-83
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:26:9-28:64
+	android:value
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:27:13-50
+uses-sdk
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\1a2d3db84d62f1afb6f27d44e874b13f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\1a2d3db84d62f1afb6f27d44e874b13f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f03a526a91ede36faab1dbbb7ebf54ea\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f03a526a91ede36faab1dbbb7ebf54ea\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ab5f3691026cc424fd471e4c180efd84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ab5f3691026cc424fd471e4c180efd84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\756b195122ba44fe83f2b04fe49c4395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\756b195122ba44fe83f2b04fe49c4395\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b751983dc85b0373835775e2c51e4ba9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b751983dc85b0373835775e2c51e4ba9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\31a6bac59c2bfb64b031ef0ad270d1f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\31a6bac59c2bfb64b031ef0ad270d1f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\8914781fd17ca68edb55f6b86bbfdf3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\8914781fd17ca68edb55f6b86bbfdf3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\38e1a394337257e0af65daa5c0531b8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\38e1a394337257e0af65daa5c0531b8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6544a293a1c7d35953e90372e696a823\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6544a293a1c7d35953e90372e696a823\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\19e41ef49a85e48adb99a57adb1850cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\19e41ef49a85e48adb99a57adb1850cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f79bfd05f00e7d468d6d5a6a6e598edd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f79bfd05f00e7d468d6d5a6a6e598edd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0ac9f34183a7a14e9dfb97b5d5c861a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0ac9f34183a7a14e9dfb97b5d5c861a2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b02de7247d972f6577ed1025c18e93c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\b02de7247d972f6577ed1025c18e93c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a0fd03ffa499b636651e684a53b127c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a0fd03ffa499b636651e684a53b127c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\162171420c7ac4633cf790681293546e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\162171420c7ac4633cf790681293546e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\4ec7fa15bd47f9b21088462a1b6f53f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\4ec7fa15bd47f9b21088462a1b6f53f4\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ae9eba24a7cf2066b99aeaedb5a0943b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\ae9eba24a7cf2066b99aeaedb5a0943b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99fe2cc1cc529e0cc1ca1b5ed9deef5a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99fe2cc1cc529e0cc1ca1b5ed9deef5a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9f3386b07802ca451f7309581dc3315e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9f3386b07802ca451f7309581dc3315e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\22098c9045eb23754a165a05c185b88f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\22098c9045eb23754a165a05c185b88f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\2b013baf1648d87ff66ee963f8ccc967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\2b013baf1648d87ff66ee963f8ccc967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\50212e6c17a1c3eec0a382dba80ef551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\50212e6c17a1c3eec0a382dba80ef551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\92742ee9b8b106d1cf6f4c6d49ed1426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\92742ee9b8b106d1cf6f4c6d49ed1426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2b3b117430854788c97ef5b83356d4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2b3b117430854788c97ef5b83356d4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\053e6812d2f51b29404c473910400419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\053e6812d2f51b29404c473910400419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\510bfbae362d0af0157493c86edfde0e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\510bfbae362d0af0157493c86edfde0e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2606a61e2e19fa52c3f45419a2335d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c2606a61e2e19fa52c3f45419a2335d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0be632f9dff13a7cea92126d87605b67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\0be632f9dff13a7cea92126d87605b67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\e8b38e589f4be0d078c454ccd6c2879f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\e8b38e589f4be0d078c454ccd6c2879f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\88723e1b080fa9fd48b72900532d83e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\88723e1b080fa9fd48b72900532d83e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\065dda686b6f4ec85827928140ac7afc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a9ce13a37eee7ba83a4b6c9459baf9b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\a9ce13a37eee7ba83a4b6c9459baf9b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\72dd8d18d638c7e2e8ea4c1cd36424ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\72dd8d18d638c7e2e8ea4c1cd36424ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c74b786202b8ba0e359a3ed3d0b60bee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c74b786202b8ba0e359a3ed3d0b60bee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\06e9b9992778f6c287d86e288acca60f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\06e9b9992778f6c287d86e288acca60f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9043ebe0930aa46f9323b772e8a124ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\9043ebe0930aa46f9323b772e8a124ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c573ed8b3252ac523429b9772753602c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\c573ed8b3252ac523429b9772753602c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\7f0469927f8c2c3ee05e2a6f61a08db5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\7f0469927f8c2c3ee05e2a6f61a08db5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\5ce4b09e0db6ee7e807dd8e0c42a6453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\5ce4b09e0db6ee7e807dd8e0c42a6453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f9905d5df8f9ec1976dd204ee3899f3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\f9905d5df8f9ec1976dd204ee3899f3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3542d25979c019286e3eb3b53f5a329b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3542d25979c019286e3eb3b53f5a329b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99e942b1defcc24daeee2bcfdd1a3216\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\99e942b1defcc24daeee2bcfdd1a3216\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6b2ccd48711446c5ddf59a4f73ddc744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\6b2ccd48711446c5ddf59a4f73ddc744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3452eb643f331e516ef6025cba5eaa02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Wuny\.gradle\caches\transforms-2\files-2.1\3452eb643f331e516ef6025cba5eaa02\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [:react-native-amap3d] D:\Project\NodeJS\Geocentric\GeocentricAndroid\node_modules\react-native-amap3d\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\Project\NodeJS\Geocentric\GeocentricAndroid\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: cn.qiuxiang.react.amap3d requested WRITE_EXTERNAL_STORAGE
